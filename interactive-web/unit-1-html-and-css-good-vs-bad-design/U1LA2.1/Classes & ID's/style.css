@@ -1,0 +1,14 @@
+body{
+    background-color: lightblue;
+    color: #0000ff;
+}
+
+h2{
+    color:#ffffff !important;
+    text-align: conter;
+}
+
+#pagetitle{
+    background-color: tomato;
+    text-align: center;
+}
