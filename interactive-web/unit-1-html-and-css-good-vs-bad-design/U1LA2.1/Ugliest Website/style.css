@@ -1,19 +1,20 @@
 body{
-    background-color: lightblue;
-    color: #0000ff;
+    background-color: darkgreen;
+    color: #021903;
+    background-image: url("images-1.jpg")
 }
 
 h2{
-    color:#ffffff !important;
+    color:#0d5e1e !important;
     text-align: conter;
 }
 
 #pagetitle{
-    background-color: tomato;
+    background-color: black;
     text-align: center;
-    padding: 20px;
+    padding: 60px;
     border: dotted;
-    border: width 50px;
+    border-width:5px;
     margin: 20px;
 }
 
